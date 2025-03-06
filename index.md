@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Beyond Thinking
 ---
-
+A safe space for thinking aloud
